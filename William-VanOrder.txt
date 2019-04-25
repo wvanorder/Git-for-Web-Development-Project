@@ -1,0 +1,5 @@
+My Name is William VanOrder.
+
+I am slightly confused as to how to get th fancier terminal UI's installed within VScode
+
+I guess this will do for now?
